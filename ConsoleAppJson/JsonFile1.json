@@ -1,0 +1,16 @@
+﻿// boolean, number, string, null, object, array
+
+{
+  "studentList": [
+    {
+      "fullName": "Petrenko Petro from file",
+      "course": 2,
+      "rating": 90
+    },
+    {
+      "fullName": "Ivanenko Ivan from file",
+      "course": 1,
+      "rating": 75
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+C:\Users\antosp\source\repos\ConsoleAppJson\ConsoleAppJson\bin\Debug\ConsoleAppJson.exe.config
+C:\Users\antosp\source\repos\ConsoleAppJson\ConsoleAppJson\bin\Debug\ConsoleAppJson.exe
+C:\Users\antosp\source\repos\ConsoleAppJson\ConsoleAppJson\bin\Debug\ConsoleAppJson.pdb
+C:\Users\antosp\source\repos\ConsoleAppJson\ConsoleAppJson\bin\Debug\Newtonsoft.Json.dll
+C:\Users\antosp\source\repos\ConsoleAppJson\ConsoleAppJson\bin\Debug\Newtonsoft.Json.xml
+C:\Users\antosp\source\repos\ConsoleAppJson\ConsoleAppJson\obj\Debug\JsonDemo.csprojAssemblyReference.cache
+C:\Users\antosp\source\repos\ConsoleAppJson\ConsoleAppJson\obj\Debug\JsonDemo.csproj.CoreCompileInputs.cache
+C:\Users\antosp\source\repos\ConsoleAppJson\ConsoleAppJson\obj\Debug\JsonDemo.csproj.CopyComplete
+C:\Users\antosp\source\repos\ConsoleAppJson\ConsoleAppJson\obj\Debug\ConsoleAppJson.exe
+C:\Users\antosp\source\repos\ConsoleAppJson\ConsoleAppJson\obj\Debug\ConsoleAppJson.pdb
